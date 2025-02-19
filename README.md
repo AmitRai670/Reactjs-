@@ -14,3 +14,9 @@ there are three type of Styling
 3. CSS module.
 
    form this three styling i think the Style sheet is best because i create a class which can re used
+
+
+  19/02/25
+
+  Today i learn about bootstrap in react js and probs in bootStap.
+  in a probes i seen that a single js file can be  used for mutiple events on the screen 
