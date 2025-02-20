@@ -21,3 +21,8 @@ there are three type of Styling
   Today i learn about bootstrap in react js and probs in bootStap.
   in a probes i seen that a single js file can be  used for mutiple events on the screen 
   Event handling is process in which if we click on button then what will log on console that is managed by  eventhandling
+
+  20/02/25
+
+  today we learn about the Event handling in that if any thing happen on pc like pressing keys , moving cousor is event. handling means the backend program which manage the things
+  
