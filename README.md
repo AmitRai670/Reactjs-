@@ -26,5 +26,6 @@ there are three type of Styling
 
   today we learn about the Event handling in that if any thing happen on pc like pressing keys , moving cousor is event. handling means the backend program which manage the things
 
-  Conditional Rendering in this if we want to make the interactive then we use it. If else condition where used for the backend program
+  Conditional Rendering in this if we want to make the interactive then we use it. If else condition where used for the backend program  
+  
   
